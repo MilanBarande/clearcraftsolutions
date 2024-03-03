@@ -12,13 +12,13 @@ export default function About() {
         <p className="mb-4">Clear Craft Solutions offers web and mobile application development services, including but not limited to design, coding, testing, and maintenance services.</p>
 
         <h2 className="text-2xl font-semibold mb-2">Use License</h2>
-        <p className="mb-4">Permission is granted to temporarily download one copy of the materials (information or software) on Clear Craft Solutions's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license, you may not:</p>
+        <p className="mb-4">Permission is granted to temporarily download one copy of the materials (information or software) on Clear Craft Solutions&apos;s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license, you may not:</p>
         <ul className="list-disc mb-4 ml-8">
             <li>modify or copy the materials;</li>
             <li>use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</li>
-            <li>attempt to decompile or reverse engineer any software contained on Clear Craft Solutions's website;</li>
+            <li>attempt to decompile or reverse engineer any software contained on Clear Craft Solutions&apos;s website;</li>
             <li>remove any copyright or other proprietary notations from the materials; or</li>
-            <li>transfer the materials to another person or "mirror" the materials on any other server.</li>
+            <li>transfer the materials to another person or &ldquo;mirror&ldquo; the materials on any other server.</li>
         </ul>
         
         <h2 className="text-2xl font-semibold mb-2">Governing Law</h2>
