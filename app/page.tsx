@@ -4,6 +4,7 @@ export default function Home() {
       <h1 className='text-xl'>Clear Craft Solutions</h1>
       <h2 className='text-md'>This website is under construction</h2>
       <span className='text-md'>You may reach out to me on <a className='underline hover:no-underline' href='https://www.linkedin.com/in/milan-barande/' target='_blank'>LinkedIn</a> or find me on <a className='underline hover:no-underline' href='https://www.github.com/milanbarande' target='_blank'>GitHub</a></span>
+      <a href='/about' className='text-md underline hover:no-underline'>Terms and Conditions</a>
     </main>
   );
 }
